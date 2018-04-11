@@ -1,0 +1,31 @@
+{
+  "name": "utility-data",
+  "version": "0.1.0",
+  "author": "Zachary Balder",
+  "license": "MIT",
+  "dependencies": {
+    "chart.js": "^2.7.2",
+    "history": "^4.7.2",
+    "json-stringify-safe": "^5.0.1",
+    "lodash": "^4.17.5",
+    "react": "^16.3.1",
+    "react-chartjs-2": "^2.7.0",
+    "react-dom": "^16.3.1",
+    "react-router": "^4.2.0",
+    "react-scripts": "1.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "mocha --reporter spec",
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "gh-pages": "^1.1.0",
+    "mocha": "^5.0.5"
+  },
+  "homepage": "http://zbo14.github.io/utility-data"
+}

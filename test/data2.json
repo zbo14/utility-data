@@ -1,0 +1,58 @@
+[
+    {
+        "year": 2016,
+        "month": 10,
+        "kwh": 1300,
+        "bill": 144.04,
+        "savings": 19.81
+    },
+    {
+        "year": 2016,
+        "month": 11,
+        "kwh": 757,
+        "bill": 75.29,
+        "savings": 6.49
+    },
+    {
+        "year": 2016,
+        "month": 12,
+        "kwh": 600,
+        "bill": 78.04,
+        "savings": 3.32
+    },
+    {
+        "year": 2017,
+        "month": 1,
+        "kwh": 750,
+        "bill": 103.14,
+        "savings": 3.12
+    },
+    {
+        "year": 2017,
+        "month": 2,
+        "kwh": 990,
+        "bill": 120.02,
+        "savings": 8.99
+    },
+    {
+        "year": 2017,
+        "month": 3,
+        "kwh": 560,
+        "bill": 75.04,
+        "savings": 1.37
+    },
+    {
+        "year": 2017,
+        "month": 4,
+        "kwh": 700,
+        "bill": 76.14,
+        "savings": 5.99
+    },
+    {
+        "year": 2017,
+        "month": 5,
+        "kwh": 989,
+        "bill": 113.76,
+        "savings": 11.99
+    }
+]
